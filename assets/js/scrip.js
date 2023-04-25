@@ -44,7 +44,7 @@ fetch(`${API_URL}`)
                     <img src="${imagenDigimon}" class="card-img-top" alt="${imagenDigimon}">
                         <div class="card-body">
                         <h5 class="card-title">Nombre: ${nombreDigimon}</h5>
-                        <h6 class="card-subtitle mb-2 text-body-secondary">Nivel: ${nivelDigimon}</h6>
+                        <h6 class="card-text mb-2 text-body-secondary">Nivel: ${nivelDigimon}</h6>
                         </div>
                 </div>
                 `
